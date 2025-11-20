@@ -194,14 +194,15 @@ Snapshot 1: Azure portal login page.
 
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b8b77931-e82a-4b82-8161-5903695a21c8" />
+<img width="1920" height="853" alt="492780993-b8b77931-e82a-4b82-8161-5903695a21c8" src="https://github.com/user-attachments/assets/22425698-ad2d-4b61-a4f8-46885d4ec466" />
 
 
 
 
 Snapshot 2: Services in Azure
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18887709-f600-47c1-a110-84a2b2da3f2d" />
+<img width="1920" height="844" alt="492781647-18887709-f600-47c1-a110-84a2b2da3f2d" src="https://github.com/user-attachments/assets/6801c43d-5465-43fa-bf5d-7e6f9c3cc791" />
+
 
 
 
